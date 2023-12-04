@@ -4,14 +4,14 @@
 body {
   font-family: 'Roboto Mono', monospace;
   background: #14B6BA;
-  width: 100%;
+  width: 70%;
   color: black;
 }
 
 /*estiliza tosos os títulos h1*/
 h1 {
   text-align: center;
-  font-size: 108pt;
+  font-size: 48pt;
 }
 
 h2 {
