@@ -2,10 +2,10 @@
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
 .cont {
-    border: 1px solid #f7e6a2;
+    border: 1px solid #ebca48;
     padding: 10px;
     margin: 10px;
-    background: #f7e37c;
+    background: #f8d836;
     border-radius: 10px;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .box1 {
-    width: 45%;
+    width: 100%;
 
 }
 
